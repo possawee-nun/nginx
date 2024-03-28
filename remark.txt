@@ -1,0 +1,2 @@
+Certificate Key => server.key
+Certificate => bundle.crt
